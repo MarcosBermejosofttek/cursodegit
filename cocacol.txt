@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 otras cosas 
 del futuro
 cmbio en rama 1 
-
-=======
-otras cosas
->>>>>>> a0a691f (comitenadoando)
+cambio en rama 2
+a la nueva
